@@ -21,7 +21,7 @@ public class CompareStrings {
         
     }
     public static void main(String[] args) {
-        String a="aa";
+        String a="a";
         String b="ab";
         int n=a.length();
         System.out.println(n);
