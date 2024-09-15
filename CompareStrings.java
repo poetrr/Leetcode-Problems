@@ -22,7 +22,7 @@ public class CompareStrings {
     }
     public static void main(String[] args) {
         String a="a";
-        String b="ab";
+        String b="a";
         int n=a.length();
         System.out.println(n);
         for(int i=0;i<n;i++){
